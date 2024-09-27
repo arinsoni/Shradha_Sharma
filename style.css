@@ -132,14 +132,3 @@ button:hover {
 .back-to-top:hover {
   background-color: #FF6B6B;
 } 
-.logo-container {
-  position: absolute; 
-  top: 20px;
-  right: 20px;
-  z-index: 10; 
-}
-
-.logo {
-  width: 100px; 
-  height: auto; 
-}
